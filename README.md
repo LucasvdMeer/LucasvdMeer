@@ -1,5 +1,3 @@
-<p align="center"><img src="assets/avatar.png" alt="Pixel-art elf mage with a staff" width="120" style="image-rendering: pixelated;" /></p>
-
 <h1 align="center">Hi 👋, I'm Lucas van der Meer</h1>
 <p align="center">
   ✨ Software engineer · homelabber · builder of small, useful tools ✨

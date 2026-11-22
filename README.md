@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas van der Meer</h1>
 <p align="center">
-  Software engineer from the Netherlands 🇳🇱 · homelabber · builder of small, useful tools
+  Software engineer · homelabber · builder of small, useful tools
 </p>
 
 ---

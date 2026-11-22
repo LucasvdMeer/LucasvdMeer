@@ -1,7 +1,43 @@
 <h1 align="center">Hi 👋, I'm Lucas van der Meer</h1>
-<h3 align="center">A Software engineer from the Netherlands</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lucas-van-der-meer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-van-der-meer" height="30" width="40" /></a>
+<p align="center">
+  Software engineer from the Netherlands 🇳🇱 · homelabber · builder of small, useful tools
 </p>
+
+---
+
+### 🛠️ What I build
+
+- 🤖 **Discord bots** — Twitch go-live announcements, a fleet manager for a Star Citizen org, and a self-hosted encrypted secret store to keep their tokens safe
+- 🖥️ **Homelab & self-hosting** — Docker stacks on Unraid, a Raspberry Pi that pulls read-only backup snapshots with a web UI to restore, and a custom-themed homepage dashboard
+- 📖 **Web apps** — a fantasy-themed journal app (Node.js + Express) that works on phone, tablet and PC
+
+### 🧰 Tech I use
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Unraid-F15A2C?style=flat-square&logo=unraid&logoColor=white" alt="Unraid" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+### 🌱 Right now
+
+- Expanding my homelab and making backups boring (in a good way)
+- Building more self-hosted tools to replace cloud services
+
+---
+
+<p align="center"><sub>Most of my projects live in private repos.</sub></p>

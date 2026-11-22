@@ -48,5 +48,5 @@
 
 ---
 
-<p align="center">⭐ <i>A mage's journey is long. Thanks for stopping by.</i> ⭐</p>
+<p align="center">🌸 <i>Every journey leaves a few flowers behind. Thanks for wandering through.</i> 🌸</p>
 <p align="center"><sub>🗝️ Most of my projects are sealed away in private repos.</sub></p>
